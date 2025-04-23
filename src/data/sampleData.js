@@ -35,9 +35,9 @@ export const sampleData = [
       ]
     },
     {
-      metric: "Paycheck Service",
+      metric: "Payment Service",
       labels: {
-        domain: "Paycheck",
+        domain: "Payment",
         country: "France",
         device: "Android,iPhone",
         severity: "Warning"
